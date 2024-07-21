@@ -1,0 +1,13 @@
+body{
+    background-color: #7385a5;
+}
+h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: white;
+}
+blockquote{
+    font-size: 200%;
+    background-color: white;
+    padding: 15px;
+}
